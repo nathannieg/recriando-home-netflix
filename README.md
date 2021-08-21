@@ -28,8 +28,9 @@ A proposta do projeto é reproduzir a página inicial da Netflix, deixando-a res
 
 ### Screenshots
 
-- [](screenshot1.png)
-- [](screenshot2.png)
+[url=https://postimg.cc/BLfF89hf][img]https://i.postimg.cc/BLfF89hf/screenshot1.png[/img][/url]
+
+[url=https://postimg.cc/G8PyG7N8][img]https://i.postimg.cc/G8PyG7N8/screenshot2.png[/img][/url]
 
 ### Links
 
