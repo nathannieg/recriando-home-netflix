@@ -27,8 +27,8 @@ A proposta do projeto é reproduzir a página inicial da Netflix, deixando-a res
 
 ### Links
 
-- [Solução no Github]()
-- [Live site]()
+- [Solução no Github](https://github.com/nathannieg/recriando-home-netflix)
+- [Live site](https://nathannieg.github.io/recriando-home-netflix/)
 
 ### Desenvolvimento continuo
 
