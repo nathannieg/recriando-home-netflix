@@ -28,8 +28,8 @@ A proposta do projeto é reproduzir a página inicial da Netflix, deixando-a res
 
 ### Screenshots
 
-[](https://i.postimg.cc/NFNYf7Lp/screenshot1.png)
-[](https://i.postimg.cc/MTNmkgmD/screenshot2.png)
+- [Banner principal](https://i.postimg.cc/NFNYf7Lp/screenshot1.png)
+- [Carrossel](https://i.postimg.cc/MTNmkgmD/screenshot2.png)
 
 ### Links
 
