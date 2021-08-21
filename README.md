@@ -28,8 +28,8 @@ A proposta do projeto é reproduzir a página inicial da Netflix, deixando-a res
 
 ### Screenshots
 
-- [](./screenshot1.png)
-- [](./screenshot2.png)
+- [](screenshot1.png)
+- [](screenshot2.png)
 
 ### Links
 
