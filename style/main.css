@@ -1,0 +1,116 @@
+/* RESETS & VARIABLES */
+
+:root {
+  --vermelho: #e50914;
+  --preto: #141414;
+  --cinza-claro: #e2e1e1;
+  --cinza-medio: #b5b4b2;
+  --branco: #fff;
+}
+
+* {
+  box-sizing: border-box; /* faz elementos se espremerem e não romper o tamanho da caixa */
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+/* PAGE STYLE - BASICS */
+
+body {
+  background: var(--preto);
+  font-family: Arial, 'Times New Roman', Times, serif;
+  color: var(--branco);
+}
+
+header .container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.container {
+  margin-left: 1.25rem;
+}
+
+.filme-principal .container {
+  width: 60%;
+}
+
+/* Sets carousel images size */
+.box-filme {
+  height: 100%;
+  width: 100%;
+  display: block;
+}
+
+header .logo {
+  margin-left: 0.3125rem;
+  margin-right: 3rem;
+  color: var(--vermelho);
+  font-family: 'Arial Black';
+  font-size: 2.5rem;
+}
+
+header nav a {
+  color: var(--cinza-claro);
+  margin-right: 0.625rem;
+}
+
+header nav a:hover {
+  color: var(--cinza-medio);
+}
+
+/* MAIN FILM */
+
+.filme-principal {
+  font-size: 1rem;
+  /* linear-gradient creates black layer above the image*/
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%),
+    url(/img/capa-house.jpg);
+  height: 30rem;
+  background-size: cover;
+  background-position: center;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start; /* elements start from the left and go the right*/
+}
+
+.filme-principal .titulo {
+  margin-top: 15%;
+  font-size: 2.5rem;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+}
+
+.filme-principal .descricao {
+  margin-top: 0.625rem;
+  margin-bottom: 5.625rem;
+}
+
+.botao {
+  background-color: rgba(0, 0, 0, 0.5);
+  border: none;
+  color: var(--branco);
+  padding: 1rem 2rem;
+  margin-right: 1rem;
+  border-radius: 0.5rem;
+  font-size: 0.75rem;
+  cursor: pointer;
+}
+
+.botao:hover {
+  background-color: rgba(255, 255, 255, 0.5);
+  color: var(--preto);
+  transition: 0.3s;
+}
+
+.botao i {
+  margin-right: 0.5rem;
+}
+
+.carrossel-filmes {
+  margin-top: 0.3125rem;
+}
