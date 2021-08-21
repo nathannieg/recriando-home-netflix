@@ -8,6 +8,7 @@ A proposta do projeto é reproduzir a página inicial da Netflix, deixando-a res
 
 - [Tecnologias utilizadas](#tecnologias)
 - [Referencias](#referencias)
+- [Screenshots](#screenshot)
 - [Links](#links)
 - [Desenvolvimento continuo](#desenvolvimento)
 - [Agradecimentos](#agradecimentos)
@@ -24,6 +25,11 @@ A proposta do projeto é reproduzir a página inicial da Netflix, deixando-a res
 - [Sinopses e imagens de filmes e séries](https://themoviedb.org)
 - [Font Awesome](https://fontawesome.com)
 - [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/)
+
+### Screenshots
+
+- [](./sreenshot1.png)
+- [](./screenshot2.png)
 
 ### Links
 
